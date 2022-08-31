@@ -1,0 +1,2 @@
+# joker-
+اداة termux-ubuntu لتشغيل الادوات الي تحتاج روت بدون مايكون جهازك فيه روت   #الاوامر $ apt update $$ apt upgrade  $ pkg install git  $ git clone https://github.com/Neo-Oli/termux-ubuntu.git  $ pkg install wget proot  $ mkdir -p ~/jails/ubuntu  $ cd ~/jails/ubuntu  $ wget https://raw.githubusercontent.com/Neo-Oli/termux-ubuntu/master/ubuntu.sh  $ bash ubuntu.sh  الان خليه يتحمل لما يخلص حط هاذا الامر للتشغيل  $ ./start-ubuntu.sh
